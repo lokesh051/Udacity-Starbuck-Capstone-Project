@@ -35,7 +35,15 @@ The given dataset is contained in three files :
 1. *"Nanodegree Project.ipynb"* The Notebook contains the entire Data Stages from preprocessing to the final output
 2. *Blog post: check out my findings [here](https://lokeshlalwani07.blogspot.com/2020/01/using-machine-learning-to-determine.html)* 
 
-### 4. Licensing, Authors, Acknowledgements
+### Libraries 
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Seaborn
+5. Sklearn
+6. Python Libraries
+
+### Licensing, Authors, Acknowledgements
 1. Acknowledgements to 
    - Udacity Machine Learning NanoDegree course
    - Starbucks for providing real-life disaster events to train my model 
